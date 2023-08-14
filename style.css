@@ -1,0 +1,4 @@
+.hov:hover {
+    color:rgb(75, 75, 199);
+    transition: .5s;
+}
